@@ -24,7 +24,7 @@
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:Health and Fitness**
+- **Category: Health and Fitness**
 - **Mobile: While the app would start out on and be more user-friendly on mobile devices, the app can later expand to a website in a way similar to apps such as uber eats and grubhub. While these may allow for better availability of our idea, mobile devices may be best suited for making our app as convenient and user friendly as it can be. **
 - **Story: Generates recipes through several inputs such as calorie count, health information, and ingredient input. Allows users to input their own recipes as well as schedule their meals throughout the week. Prioritizes time of day and diet to allow for more filtering of recipes that appear on a user's feed to make it more easier for a user to find a recipe that abides to their requirements.**
 - **Market: Can be accessed by anyone looking to find a quick meal to create or a place where they can find ingredients others have made. For more advanced features such as calorie count though, it targets those who are looing to abide to specific diets or fitness plans and need a app that can keep track of their calorie count while also providing them with convenient recipes to use.**
