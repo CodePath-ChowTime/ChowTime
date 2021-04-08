@@ -107,6 +107,23 @@
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
-### Networking
+#### Users
+| Property  | Type | Description
+| ------------- | ------------- |--------------
+| userID  | String   |Unique ID for the user.
+| userImage  | File  | User's profile image.
+| userWeight | Number | This integer represents the weight of the user in pounds for use in better filtering out recipes that are fitted for a user's diet or health
+| userHeight| Number | This integer represents the height of the user in feet for use in better filtering out recipes that are fitted for a user's diet or health
+| userAge | Int | This integer represents the age of the user in years for use in better filtering out recipes that are fitted for a user's diet or health
+|favoriteRecipe | Array | Contains the recipes saved/favorited by the user
+| healthInfo | Dictionary | Contains daily health-related info for the user (caloriesSpent, caloriesBurnt, calorieGoal)
+
+#### Recipe
+| Property  | Type | Description
+| ------------- | ------------- |--------------
+| recipeID  | String   | Unique ID for the recipe
+| timeUsed  | DateTime  | Represents the most recent time the recipe was seen by the user
+| ingredients | Array | Contains each of the required ingredients for this recipe in the form of a string
+| favorites |Array | Contains a random number of recipes that were favorited by users 
+| servingSize | Int | Represents the serving size and adjusts recipe accordingly.### Networking
 - Username, recipe, possibly information related to health (weight, height, age) for the recipe screen, the same information but for one user (the one accessing the app) for the profile screen. For the settings screen, information about the type of  backgrounds, calorie/ingredients, etc will need to be pulled 
