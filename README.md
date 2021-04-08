@@ -1,4 +1,4 @@
-# ChowTime# ChowTime
+# ChowTime
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -13,7 +13,6 @@
 - Chewy
 - Chefie
 - NoMoFrozen
-- 
 
 ### Description
 - Can generate a recipe through calorie count input, bmi input, and ingredient input
