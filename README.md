@@ -37,8 +37,8 @@
 
 **Required Must-have Stories**
 
-* Login screen w/ Sign Up and Sign In button
-* Dashboard Screen
+[x] Login screen w/ Sign Up and Sign In button
+[x] Dashboard Screen
     * User can set calorie intake goals for the day
     * User should be able to see saved/recent recipes
     * Retrieve calorie and health information from Apple Watch or fitness tracker?
@@ -56,13 +56,11 @@
 * User can be able to favorite their recipes
 * Rating System for Recipes
 * Calendar View for scheduling meals/recipes
-* ...
 
 ### 2. Screen Archetypes
 
 * Login/Registration Screen
    * User can login and register.
-   * ...
 * Dashboard
    * A list of times of when to start making meals
    * Upcoming meals on schedule
