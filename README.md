@@ -98,6 +98,7 @@
 ## Wireframes
 <img src="https://i.imgur.com/sqOI8ph.png" width=600>
 
+<img src="http://g.recordit.co/cDW4pIvIi9.gif" width=600>
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
