@@ -13,6 +13,7 @@
 		8010991F2632042C003E5D13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8010991D2632042C003E5D13 /* Main.storyboard */; };
 		8010992126320430003E5D13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8010992026320430003E5D13 /* Assets.xcassets */; };
 		8010992426320430003E5D13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8010992226320430003E5D13 /* LaunchScreen.storyboard */; };
+		8010992D26320BB2003E5D13 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8010992C26320BB2003E5D13 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8010992026320430003E5D13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8010992326320430003E5D13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8010992526320430003E5D13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8010992C26320BB2003E5D13 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8010992026320430003E5D13 /* Assets.xcassets */,
 				8010992226320430003E5D13 /* LaunchScreen.storyboard */,
 				8010992526320430003E5D13 /* Info.plist */,
+				8010992C26320BB2003E5D13 /* LoginViewController.swift */,
 			);
 			path = ChowTime;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8010992D26320BB2003E5D13 /* LoginViewController.swift in Sources */,
 				8010991C2632042C003E5D13 /* ViewController.swift in Sources */,
 				801099182632042C003E5D13 /* AppDelegate.swift in Sources */,
 				8010991A2632042C003E5D13 /* SceneDelegate.swift in Sources */,
